@@ -1,4 +1,4 @@
-import{r as e}from"./react-three-BdgxNMf0.js";
+import{r as e}from"./react-three-C2aMP66J.js";
 /**
  * react-router v7.12.0
  *
