@@ -75,11 +75,18 @@ experiences: [
 projects: [
     {
         id: 1,
-        title: "Early Python Programming Projects",
-        category: "Foundations",
-        technologies: "Python",
+        title: "BMI & Health — Intelligent Mobile Health Platform",
+        category: "Featured Project",
+        technologies: "Kotlin, XML, Material 3, MVVM, REST API, JSON, Google Play Console",
         image: "/images/project-1.webp",
-        description: "Collection of foundational Python exercises and problem-solving programs completed during and after the Code in Place program. Focused on logic building and computational thinking."
+        description: "Designed and developed a modern Android health platform integrating an AI-powered conversational assistant. Architected using MVVM principles with lifecycle-aware components and Kotlin-based Gradle configuration. Implemented secure backend communication using REST APIs and JSON parsing, including request validation and rate limiting for AI interactions. Currently deployed in Google Play Console internal testing and preparing for public release.",
+        highlights: [
+            "Integrated AI chatbot via secure serverless backend",
+            "Applied MVVM architecture for scalable Android structure",
+            "Used Material 3 design system for modern UI/UX",
+            "Configured Kotlin-based Gradle build system",
+            "Deployed to Google Play Console (Testing Phase)"
+        ]
     },
     {
         id: 2,
